@@ -47,6 +47,7 @@ CPU_VARIANTS = {
     "linux+no-dsp":       "VexRiscv_LinuxNoDspFmax",
     "secure":             "VexRiscv_Secure",
     "secure+debug":       "VexRiscv_SecureDebug",
+    "custom":             "VexRiscv_Custom",
 }
 
 # GCC Flags ----------------------------------------------------------------------------------------
