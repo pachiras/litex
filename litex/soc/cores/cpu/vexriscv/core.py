@@ -79,6 +79,7 @@ GCC_FLAGS = {
     "linux+no-dsp":         "-march=rv32i2p0_ma    -mabi=ilp32",
     "secure":               "-march=rv32i2p0_ma    -mabi=ilp32",
     "secure+debug":         "-march=rv32i2p0_ma    -mabi=ilp32",
+    "custom":                 "-march=rv32i2p0_m     -mabi=ilp32",
 }
 
 # VexRiscv Timer -----------------------------------------------------------------------------------
